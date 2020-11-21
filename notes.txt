@@ -1,1 +1,9 @@
 https://www.youtube.com/playlist?list=PLW_OuWgJzqX0VDi1OYbbPhToPzdX_6zNd
+
+
+With Solo Week nearly here, we'd like to present to you the Blockchain Sprint. Please make note of the following:
+This is a self-paced, bonus, optional sprint--completely up to you when/where/why/how and if you want to complete it
+It consists of two parts. We expect the first part to take 5-10 hours, while the second part takes 20-40 hours. All resources needed are either included in or linked from the repo--there is no content in the Learn App.
+The lecture videos are hosted on Youtube.
+This sprint was a collaboration between Hack Reactor Remote staff and alumni who lovingly volunteered their time to create and refine it
+If you find any bugs, please submit an issue through GitHub.
